@@ -6,6 +6,8 @@
 //  Copyright © 2018 Jeff Zhang. All rights reserved.
 //
 
+// FORKED BY AJ
+
 import UIKit
 
 public class JZCollectionView: UICollectionView {
